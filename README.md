@@ -1,4 +1,4 @@
-# pix2pixHD face editing
+# face-pix2pixHD face editing
 
 In this work, I achieved face editing with pix2pixHD. In my work, I used a label mask to 
 # Files
@@ -140,5 +140,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTgyOTk0M119
+eyJoaXN0b3J5IjpbMTkwMjA5Nzg4NSwxMzMxODI5OTQzXX0=
 -->
