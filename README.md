@@ -1,6 +1,6 @@
 # face-pix2pixHD face editing
 
-In this work, I achieved face editing with pix2pixHD. In my work, I used a label mask to generate a face 
+In this work, I achieved face editing with pix2pixHD. In my work, I used a label mask to generate a face and by 
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -140,6 +140,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMjI0NjYyLDE5MDIwOTc4ODUsMTMzMT
+eyJoaXN0b3J5IjpbOTUwMDAyOTQyLDE5MDIwOTc4ODUsMTMzMT
 gyOTk0M119
 -->
