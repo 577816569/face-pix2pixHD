@@ -1,13 +1,16 @@
 # face-pix2pixHD face editing
 
 In this work, I achieved face editing with pix2pixHD. In my work, I used a label mask to generate a face and by using Adain normalization to guide the style of generated image.
-#Prerequisites
+## Prerequisites
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+* Python 3
+* Ptyorch 0.41+
+* NVIDIA GPU + CUDA CuDNN
+* Opencv
 
-## Create files and folders
+## Results
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Image editing:
 
 ## Switch to another file
 
@@ -140,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1MDU3NzQ0LC0yOTM3ODg3NDIsOTUwMD
-AyOTQyLDE5MDIwOTc4ODUsMTMzMTgyOTk0M119
+eyJoaXN0b3J5IjpbMTk0NDkwMTY2MSwtMjkzNzg4NzQyLDk1MD
+AwMjk0MiwxOTAyMDk3ODg1LDEzMzE4Mjk5NDNdfQ==
 -->
