@@ -22,9 +22,9 @@ Face editing:
 
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000125.jpg" width = "150" height = "150" alt="Original style image" align=center /><img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/312.jpg" width = "150" height = "150" alt="Original style image" align=center />
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/4343.jpg" width = "150" height = "150" alt="Original style image" align=center />
-<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/1.jpg" width = "150" height = "150" alt="Original style image" align=center />
+<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/fdf.jpg" width = "150" height = "150" alt="Original style image" align=center />
 
-&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Mask&emsp;&emsp;&emsp;Style&emsp;&emsp;&emsp;Result
+&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Edited Mask&emsp;&emsp;&emsp;Original Mask&emsp;&emsp;&emsp;Result
 ## Switch to another file
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -156,7 +156,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkwMzI2NCwxOTQ0OTAxNjYxLC0yOT
-M3ODg3NDIsOTUwMDAyOTQyLDE5MDIwOTc4ODUsMTMzMTgyOTk0
-M119
+eyJoaXN0b3J5IjpbLTI3Mzk4NzAsLTE3MzkwMzI2NCwxOTQ0OT
+AxNjYxLC0yOTM3ODg3NDIsOTUwMDAyOTQyLDE5MDIwOTc4ODUs
+MTMzMTgyOTk0M119
 -->
