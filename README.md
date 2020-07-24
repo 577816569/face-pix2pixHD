@@ -10,9 +10,17 @@ In this work, I achieved face editing with pix2pixHD. In my work, I used a label
 
 ## Results
 
-Image editing:
+Face style transfer:
 
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000085.jpg" width = "150" height = "150" alt="Original style image" align=center /><img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/dsdsd.jpg" width = "150" height = "150" alt="Original style image" align=center />
+<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000014.jpg" width = "150" height = "150" alt="Original style image" align=center />
+<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/1.jpg" width = "150" height = "150" alt="Original style image" align=center />
+
+&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Mask&emsp;&emsp;&emsp;Style&emsp;&emsp;&emsp;Result
+
+Face editing:
+
+<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000125.jpg" width = "150" height = "150" alt="Original style image" align=center /><img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/dsdsd.jpg" width = "150" height = "150" alt="Original style image" align=center />
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000014.jpg" width = "150" height = "150" alt="Original style image" align=center />
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/1.jpg" width = "150" height = "150" alt="Original style image" align=center />
 
@@ -148,7 +156,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODc5NjQ2MCwxOTQ0OTAxNjYxLC0yOT
-M3ODg3NDIsOTUwMDAyOTQyLDE5MDIwOTc4ODUsMTMzMTgyOTk0
-M119
+eyJoaXN0b3J5IjpbLTEwODg3MzM5MTEsMTk0NDkwMTY2MSwtMj
+kzNzg4NzQyLDk1MDAwMjk0MiwxOTAyMDk3ODg1LDEzMzE4Mjk5
+NDNdfQ==
 -->
