@@ -16,7 +16,7 @@ Face style transfer:
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000014.jpg" width = "150" height = "150" alt="Original style image" align=center />
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/1.jpg" width = "150" height = "150" alt="Original style image" align=center />
 
-&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                  Mask&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;        Style&emsp;&emsp;&emsp;&emsp;&emsp;        Result
+&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                  Mask&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;        Style&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    &emsp;            Result
 
 Face editing:
 
@@ -29,7 +29,7 @@ Face editing:
 ## Reference
 Pix2pixHD: [https://github.com/NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjAzNjg3MywxMjQ3NDU0MTgxLC0xNz
-M5MDMyNjQsMTk0NDkwMTY2MSwtMjkzNzg4NzQyLDk1MDAwMjk0
-MiwxOTAyMDk3ODg1LDEzMzE4Mjk5NDNdfQ==
+eyJoaXN0b3J5IjpbLTQyMDcxOTc3LDEyNDc0NTQxODEsLTE3Mz
+kwMzI2NCwxOTQ0OTAxNjYxLC0yOTM3ODg3NDIsOTUwMDAyOTQy
+LDE5MDIwOTc4ODUsMTMzMTgyOTk0M119
 -->
