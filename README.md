@@ -21,7 +21,7 @@ Face style transfer:
 Face editing:
 
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000125.jpg" width = "150" height = "150" alt="Original style image" align=center /><img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/312.jpg" width = "150" height = "150" alt="Original style image" align=center />
-<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000014.jpg" width = "150" height = "150" alt="Original style image" align=center />
+<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/4343.jpg" width = "150" height = "150" alt="Original style image" align=center />
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/1.jpg" width = "150" height = "150" alt="Original style image" align=center />
 
 &emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Mask&emsp;&emsp;&emsp;Style&emsp;&emsp;&emsp;Result
@@ -156,7 +156,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgwMTM3MzMsMTk0NDkwMTY2MSwtMj
-kzNzg4NzQyLDk1MDAwMjk0MiwxOTAyMDk3ODg1LDEzMzE4Mjk5
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTE3MzkwMzI2NCwxOTQ0OTAxNjYxLC0yOT
+M3ODg3NDIsOTUwMDAyOTQyLDE5MDIwOTc4ODUsMTMzMTgyOTk0
+M119
 -->
