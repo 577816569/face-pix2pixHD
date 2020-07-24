@@ -1,7 +1,7 @@
 # face-pix2pixHD face editing
 
 In this work, I achieved face editing with pix2pixHD. In my work, I used a label mask to generate a face and by using Adain normalization to guide the style of generated image.
-# Files
+#Prerequisites
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -140,6 +140,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTIyNTY2NCwtMjkzNzg4NzQyLDk1MD
-AwMjk0MiwxOTAyMDk3ODg1LDEzMzE4Mjk5NDNdfQ==
+eyJoaXN0b3J5IjpbOTQ1MDU3NzQ0LC0yOTM3ODg3NDIsOTUwMD
+AyOTQyLDE5MDIwOTc4ODUsMTMzMTgyOTk0M119
 -->
