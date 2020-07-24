@@ -13,8 +13,9 @@ In this work, I achieved face editing with pix2pixHD. In my work, I used a label
 Image editing:
 
 <img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000085.jpg" width = "150" height = "150" alt="Original style image" align=center /><img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/dsdsd.jpg" width = "150" height = "150" alt="Original style image" align=center />
-
-&emsp;&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Mask&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000014.jpg" width = "150" height = "150" alt="Original style image" align=center />
+<img src="[https://github.com/577816569/face-pix2pixHD/blob/master/images/1.jpg](https://github.com/577816569/face-pix2pixHD/blob/master/images/1.jpg)" width = "150" height = "150" alt="Original style image" align=center />
+&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Mask&emsp;&emsp;&emsp;
 ## Switch to another file
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -146,7 +147,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDIzODcwMCwxOTQ0OTAxNjYxLC0yOT
+eyJoaXN0b3J5IjpbLTU0MDAyOTE3OSwxOTQ0OTAxNjYxLC0yOT
 M3ODg3NDIsOTUwMDAyOTQyLDE5MDIwOTc4ODUsMTMzMTgyOTk0
 M119
 -->
