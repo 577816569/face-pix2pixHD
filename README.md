@@ -27,9 +27,9 @@ Face editing:
 &emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Edited Mask&emsp;&emsp;&emsp;Original Mask&emsp;&emsp;&emsp;Result
 
 ## Reference
-
+Pix2pixHD: [https://github.com/NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMTE3NTQ0LC0xNzM5MDMyNjQsMTk0ND
-kwMTY2MSwtMjkzNzg4NzQyLDk1MDAwMjk0MiwxOTAyMDk3ODg1
-LDEzMzE4Mjk5NDNdfQ==
+eyJoaXN0b3J5IjpbMTI0NzQ1NDE4MSwtMTczOTAzMjY0LDE5ND
+Q5MDE2NjEsLTI5Mzc4ODc0Miw5NTAwMDI5NDIsMTkwMjA5Nzg4
+NSwxMzMxODI5OTQzXX0=
 -->
