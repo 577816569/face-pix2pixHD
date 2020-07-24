@@ -11,7 +11,7 @@ In this work, I achieved face editing with pix2pixHD. In my work, I used a label
 ## Results
 
 Image editing:
-<img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/mosaic.jpg" width = "300" height = "200" alt="Original style image" align=center />
+<img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/mosaic.jpg" width = "300" height = "200" alt="Original style image" align=center />[https://github.com/577816569/face-pix2pixHD/blob/master/images/dsdsd.jpg](https://github.com/577816569/face-pix2pixHD/blob/master/images/dsdsd.jpg)
 
 ## Switch to another file
 
@@ -144,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mjg0NDY1OCwxOTQ0OTAxNjYxLC0yOT
-M3ODg3NDIsOTUwMDAyOTQyLDE5MDIwOTc4ODUsMTMzMTgyOTk0
-M119
+eyJoaXN0b3J5IjpbLTE1NDA1Njc2MTcsMTk0NDkwMTY2MSwtMj
+kzNzg4NzQyLDk1MDAwMjk0MiwxOTAyMDk3ODg1LDEzMzE4Mjk5
+NDNdfQ==
 -->
